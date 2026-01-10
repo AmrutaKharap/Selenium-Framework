@@ -63,7 +63,7 @@ public class registrationTestCases extends BaseClass{
 //		CommonMethods.handleAssertion(expectedWarn, actual, "Fill Registration Details  ");
 //		CommonMethods.handleAssertion(expectedFName, actual, "Fill Registration Details  ");
 //		
-		
+		System.out.println("Git demo");
 		
 		
 	}
