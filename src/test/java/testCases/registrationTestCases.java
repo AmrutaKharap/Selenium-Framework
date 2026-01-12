@@ -65,6 +65,8 @@ public class registrationTestCases extends BaseClass{
 //		
 		System.out.println("Git demo");
 		
+		System.out.println("Changes done in amrutaBranch demo");
+		
 		
 	}
 	 
